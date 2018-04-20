@@ -1,0 +1,53 @@
+#spelruta{
+	height: 480px;
+	width: 640px;
+	background-color: black;
+	position: absolute;
+	left: 0; 
+	right: 0; 
+	margin-left: auto; 
+	margin-right: auto;
+	border: 10px solid #282828;
+}
+
+body{
+	background: #383838;
+	padding: 0;
+	margin: 0;
+}
+
+h1{
+	margin-top: 100px;
+	width: 640px;
+	color: white;
+	background-color: #4c4c4c;
+}
+
+p{
+	color:white;
+	position: absolute; 
+}
+
+#skepp{  
+	width: 50px;
+	height: 20px;
+	background-color: green;
+	position: absolute;
+	top: 440px;
+	left: 295px;
+}
+
+#skott{
+	position: absolute;
+	top: 300px;
+	left: 0px;
+	width: 10px;
+	height: 20px;
+	background-color: black;
+}
+
+#monster{
+	position: absolute;
+	top: 50px;
+	left: 200px;
+}
